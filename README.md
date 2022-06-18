@@ -1,2 +1,2 @@
 # -Web
-Site web
+Site web pour les débutants.
